@@ -1,0 +1,7 @@
+! Left WIN
+keycode 133 = Mode_switch
+
+keysym n = n N Left
+keysym i = i I Right
+keysym u = u U Up
+keysym e = e E Down
